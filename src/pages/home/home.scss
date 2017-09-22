@@ -1,0 +1,14 @@
+page-home {
+  .compass {
+    -webkit-background-image: url('../assets/images/compass.png');
+    background-image: url('../assets/images/compass.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    min-width: 300px;
+    min-height: 300px;
+    border-radius: 50%;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+}
